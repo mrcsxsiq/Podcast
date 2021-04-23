@@ -1,2 +1,8 @@
+include ':viper'
+include ':clean'
+include ':mvc'
+include ':mvi'
+include ':mvvm'
+include ':mvp'
 include ':app'
 rootProject.name = "Podcast"
