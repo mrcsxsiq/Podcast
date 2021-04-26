@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Podcast</string>
+    <string name="app_name">KT Podcast</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id dapibus sapien, sed eleifend dui. Mauris lectus arcu, ultrices a tempus non, ullamcorper et justo. Aenean id efficitur tortor, vel varius eros. Pellentesque sagittis velit elit. In imperdiet aliquam commodo. Suspendisse tempor, justo a interdum condimentum, ex justo pretium libero, eget dictum justo dui et dui. Praesent vitae ornare ipsum. Donec ultricies euismod enim non euismod. Mauris vel sodales nunc, sit amet rutrum libero.</string>
 </resources>
