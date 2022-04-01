@@ -2,7 +2,7 @@ version: 2
 updates:
   - package-ecosystem: "gradle"  
     directory: "/"  
-        schedule:
+    schedule:
       interval: "daily"
       time: "21:30"
       timezone: "America/Sao_Paulo"
